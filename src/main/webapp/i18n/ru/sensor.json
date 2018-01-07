@@ -1,0 +1,22 @@
+{
+    "jsenseApp": {
+        "sensor" : {
+            "home": {
+                "title": "Sensors",
+                "createLabel": "Создать новый Sensor",
+                "createOrEditLabel": "Создать или отредактировать Sensor",
+                "search": "Найти Sensor"
+            },
+            "created": "Новый Sensor создан с идентификатором {{ param }}",
+            "updated": "Sensor обновлен с идентификатором {{ param }}",
+            "deleted": "Sensor удален с идентификатором {{ param }}",
+            "delete": {
+                "question": "Вы уверены что хотите удалить Sensor {{ id }}?"
+            },
+            "detail": {
+                "title": "Sensor"
+            },
+            "name": "Name"
+        }
+    }
+}
